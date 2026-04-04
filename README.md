@@ -26,6 +26,3 @@ Here are some ideas to get you started:
 
 📫Please contact me with email zrp1197393437@163.com
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrpstc)
-
