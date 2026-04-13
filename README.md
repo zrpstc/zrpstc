@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 2018-2022 Studyed in Taiyuan University of Technology and major in CS.
+- 2018-2022 Studied in Taiyuan University of Technology and majoring in CS.
 - 2022-2024 Worked as a software Engineer in BYD company.
-- 2024-     Postgraduate student of Xi'an JiaoTong University，BME.
+- 2024-     Postgraduate student of Xi'an JiaoTong University，majoring in BME.
   
-😄This is the place where I am finding and uploading funny projects.
+😄This is the place where I find and upload fun projects.
 
 🔭 My currently research project is Biomedical Informatics and Machine Learning.
 
