@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
 😄This is the place where I find and upload fun projects.
 
-🔭 My currently research project is Biomedical Informatics and Machine Learning.
+🔭 My current research project is Biomedical Informatics and Machine Learning.
 
 📫Please contact me with email zrp1197393437@163.com
 
